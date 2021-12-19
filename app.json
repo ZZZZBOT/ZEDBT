@@ -1,0 +1,11 @@
+{
+  "name": "ZED",
+  "description": "Lightweight WhatsApp Bot",
+  "repository": "https://github.com/ZZZZBOT/WOLF",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": [
+    "bot",
+    "whatsapp",
+    "whatsapp-bot"
+  ]
+}
